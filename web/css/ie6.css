@@ -1,0 +1,5 @@
+div {behavior:url(script/hover.htc)}
+.menu div.hover{cursor:hand; color:#336666; background:url(../img/menu_hov.jpg) repeat-x; text-decoration: none; outline: none; display:block;}
+.menu span {cursor:hand; display:block;}
+
+
